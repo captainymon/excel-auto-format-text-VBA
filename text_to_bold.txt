@@ -1,0 +1,56 @@
+##Add word below to be included in highlighting##
+## Add a space before the word to ensure only complete words are found##
+## https://www.food.gov.uk/business-guidance/allergen-labelling-for-food-manufacturers#allergens
+
+
+celery
+wheat
+spelt
+rye
+barley
+khorasan
+oats
+prawn
+prawns
+crab
+lobster
+egg
+eggs
+lupin
+milk
+cream
+fish
+squid
+mollusc
+molluscs
+mussels
+oyster
+oysters
+cockles
+whelks
+snails
+mustard
+almond
+almonds
+nut
+nuts
+brazil nuts
+cashew
+cashews
+pecan
+pecans
+pistachio
+pistachios
+macadamia
+macadamia nut
+macadamia nuts
+peanuts
+sesame
+sesame seeds
+sesameseeds
+tahini paste
+soya
+soya beans
+soyabeans
+sulphur dioxide
+Sulphites
